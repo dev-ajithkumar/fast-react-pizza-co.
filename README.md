@@ -75,6 +75,12 @@ The `Order` component is displayed in the footer and provides information about 
 
 This code snippet provides a foundation for a pizza ordering application. You can further customize and expand the application to include features like ordering functionality and payment processing.
 
+## Live Demo
+
+You can experience the Fast React Pizza Co. web application live by visiting the following link:
+
+[Fast React Pizza Co. Live Demo](https://7qcmln.csb.app/)
+
 Enjoy building your pizza ordering application with React! If you have any questions or need assistance, feel free to reach out to us.
 
 Thank you for choosing Fast React Pizza Co.! 🍕🍕🍕
